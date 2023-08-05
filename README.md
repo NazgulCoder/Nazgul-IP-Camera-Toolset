@@ -20,6 +20,11 @@ This is what the folders structure looks like, just edit the PHP Script accordin
 
 ![image](https://github.com/NazgulCoder/Nazgul-IP-Camera-Toolset/assets/85739956/ce7db8c2-a5d0-4c3d-a9ec-b782a395d2ce)
 
+# IPCamera-Scanner
+This is a simple IPCamera Scanner that can be customized and used to detect IPCameras in your network (just change the PORT in the python script, default is 554 for RTSP, but you can definitely use it for ONVIF at ports 80, 8080, 443).
+
+![image](https://github.com/NazgulCoder/Nazgul-IP-Camera-Toolset/assets/85739956/2a6959f1-1b75-429a-8c7d-b147cccfe752)
+
 # RTSP Streams
 This project was made since all the RTSP Stream tools we find online don't really work, or require too much work/settings (e.g. ffmpeg, mpv, VLC), or are not open source.
 
