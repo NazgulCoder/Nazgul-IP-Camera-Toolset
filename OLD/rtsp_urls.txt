@@ -1,3 +1,0 @@
-RTSP URL 1
-RTSP URL 2
-add as many as you want
