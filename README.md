@@ -23,6 +23,8 @@ This is what the folders structure looks like, just edit the PHP Script accordin
 # IPCamera-Scanner
 This is a simple IPCamera Scanner that can be customized and used to detect IPCameras in your network (just change the PORT in the python script, default is 554 for RTSP, but you can definitely use it for ONVIF at ports 80, 8080, 443).
 
+Make sure to change in the `subnet.txt` the IP Address and the subnet mask according to your subnet. If you need help with subnetting refer to this online service https://www.calculator.net/ip-subnet-calculator.html
+
 ![image](https://github.com/NazgulCoder/Nazgul-IP-Camera-Toolset/assets/85739956/2a6959f1-1b75-429a-8c7d-b147cccfe752)
 
 # RTSP Streams
