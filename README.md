@@ -23,7 +23,7 @@ This is what the folders structure looks like, just edit the PHP Script accordin
 # RTSP Streams
 This project was made since all the RTSP Stream tools we find online don't really work, or require too much work/settings (e.g. ffmpeg, mpv, VLC), or are not open source.
 
-With this toolset written in Python (so you can run them almost anywhere) all you have to do is just replace in the .txt file the RTSP URLs.
+With this toolset written in Python (so you can run them almost anywhere) all you have to do is just replace `rtsp_urls.txt` file the RTSP URLs.
 
 In the OLD Folder you can find some previous sketches and tests, but they are not meant to be used since are highly unstable.
 
@@ -32,3 +32,46 @@ Motiondetect project works quite nicely, it uses OpenCV and can be used constant
 ![image](https://github.com/NazgulCoder/Nazgul-IP-Camera-Toolset/assets/85739956/9ed80309-c6d3-48fd-a914-eda1395c29a3)
 
 ![image](https://github.com/NazgulCoder/Nazgul-IP-Camera-Toolset/assets/85739956/f7c3dd7f-dc49-424b-8a9d-ec4dcd4aa25b)
+
+To use *RTSP Streams* you can either run the version with the motiondetect (which apparently looks a bit more stable since few tweaks has been made and an autorefresh timer of 30 seconds has been added). However, the viewertxtadaptive2 is stable too, and has error recovery function that if the RTSP stream crashes, after few seconds it recovers automatically.
+
+I highly recommend you to launch it via CMD, so you can see eventually all the error logs.
+
+The `settings.txt` file must be configured only if you are using the motiondetect version.
+
+The first value can be `0` or `1` which means `Off` or `On` for the motion detect feature.
+
+The second value is the sensitivity of the OpenCV motion detect feature, I recommend to leave it `500000`. The lower this value is, the higher it is the sensitivity.
+
+
+# Donations
+- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/26428acd-41f8-4679-879e-3e00b91bee62) 86Xpx2XiMwtKvn6Cft9k61NWwVNMB9GHNTFt5SVTN5bGLFeLUAzECdmdgBQU9BaSnEaQkjqfRDTyhWm3Lige8SHmR1CbjXU
+
+
+## LICENSE
+
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+MIT License
+
+Copyright (c) [2023] [NazgulCoder]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
