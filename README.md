@@ -52,7 +52,9 @@ The second value is the sensitivity of the OpenCV motion detect feature, I recom
 
 
 # Donations
-- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/26428acd-41f8-4679-879e-3e00b91bee62) 86Xpx2XiMwtKvn6Cft9k61NWwVNMB9GHNTFt5SVTN5bGLFeLUAzECdmdgBQU9BaSnEaQkjqfRDTyhWm3Lige8SHmR1CbjXU
+- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/bfb37ab3-5245-4b98-bd9f-08813b262117) 1NZoXU9uLj7rRS4GUKkVgcSJnQwayUKCEG
+- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/de324b88-2251-4371-81cc-0aecbd5e7272) 0x749144293cd9b033d4e98d8cc834bdc7f3fe4cb4
+- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/4af1b069-e320-4727-85e1-94a3755f554f) LKSaTMKVCKBTjePyq9kM2vwxAc7FH1H3Rk
 
 
 ## LICENSE
