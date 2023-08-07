@@ -50,6 +50,17 @@ The first value can be `0` or `1` which means `Off` or `On` for the motion detec
 
 The second value is the sensitivity of the OpenCV motion detect feature, I recommend to leave it `500000`. The lower this value is, the higher it is the sensitivity.
 
+# phpIPCameraViewer
+This simple project doesn't do any magic trick at all, and can be used only with the cameras that support the jpg preview via HTTP (I recommend you to check on iSpy whether your IPCamera supports that).
+
+For this project you need an HTTP Server such as Apache or Nginx, I recommend https://www.uwamp.com/en/ since is very robust, light and portable.
+
+Copy all the content into the `www` folder in uWamp and then run the webserver. Make sure to change the HTTP urls in `image_urls.txt`.
+
+It then uses Javascript to refresh the image every 1 second, and a proxy.php API to bypass the CORS policy and Google security measure that blocks credentials inside iframes and img source.
+
+I personally don't recommend this method because you are going to flood too much your IPCamera and it might reboot many times
+
 
 # Donations
 - ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/bfb37ab3-5245-4b98-bd9f-08813b262117) 1NZoXU9uLj7rRS4GUKkVgcSJnQwayUKCEG
