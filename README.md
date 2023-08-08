@@ -63,9 +63,9 @@ I personally don't recommend this method because you are going to flood too much
 
 
 # Donations
-- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/bfb37ab3-5245-4b98-bd9f-08813b262117) 1NZoXU9uLj7rRS4GUKkVgcSJnQwayUKCEG
-- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/de324b88-2251-4371-81cc-0aecbd5e7272) 0x749144293cd9b033d4e98d8cc834bdc7f3fe4cb4
-- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/4af1b069-e320-4727-85e1-94a3755f554f) LKSaTMKVCKBTjePyq9kM2vwxAc7FH1H3Rk
+- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/bfb37ab3-5245-4b98-bd9f-08813b262117) bc1qvcr8nv6la58jp5y29s28dkrnr8v3ukn9tgztea
+- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/de324b88-2251-4371-81cc-0aecbd5e7272) 0xca834fbF25B32fB887aeb88FD28567c26e268200
+- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/4af1b069-e320-4727-85e1-94a3755f554f) LKbqJPJeUHcWVPYkLGb14QsUm1ZvBvfzsM
 
 
 ## LICENSE
