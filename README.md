@@ -62,12 +62,6 @@ It then uses Javascript to refresh the image every 1 second, and a proxy.php API
 I personally don't recommend this method because you are going to flood too much your IPCamera and it might reboot many times
 
 
-# Donations
-- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/bfb37ab3-5245-4b98-bd9f-08813b262117) bc1qvcr8nv6la58jp5y29s28dkrnr8v3ukn9tgztea
-- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/de324b88-2251-4371-81cc-0aecbd5e7272) 0xca834fbF25B32fB887aeb88FD28567c26e268200
-- ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/4af1b069-e320-4727-85e1-94a3755f554f) LKbqJPJeUHcWVPYkLGb14QsUm1ZvBvfzsM
-
-
 ## LICENSE
 
 
