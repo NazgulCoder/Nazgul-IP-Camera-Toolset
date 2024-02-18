@@ -1,10 +1,10 @@
 import cv2
 
 # Replace these URLs with your actual RTSP stream URLs
-STREAM1_URL = "YOUR RTSP URL"
-STREAM2_URL = "YOUR RTSP URL"
-STREAM3_URL = "YOUR RTSP URL"
-STREAM4_URL = "YOUR RTSP URL"
+STREAM1_URL = "rtsp://URL"
+STREAM2_URL = "rtsp://URL"
+STREAM3_URL = "rtsp://URL"
+STREAM4_URL = "rtsp://URL"
 
 # Create capture objects for each stream
 cap1 = cv2.VideoCapture(STREAM1_URL)
